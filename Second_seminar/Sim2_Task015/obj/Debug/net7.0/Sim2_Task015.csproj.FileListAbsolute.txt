@@ -1,0 +1,15 @@
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\Sim2_Task015.csproj.AssemblyReference.cache
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\Sim2_Task015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\Sim2_Task015.AssemblyInfoInputs.cache
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\Sim2_Task015.AssemblyInfo.cs
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\Sim2_Task015.csproj.CoreCompileInputs.cache
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\bin\Debug\net7.0\Sim2_Task015.exe
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\bin\Debug\net7.0\Sim2_Task015.deps.json
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\bin\Debug\net7.0\Sim2_Task015.runtimeconfig.json
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\bin\Debug\net7.0\Sim2_Task015.dll
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\bin\Debug\net7.0\Sim2_Task015.pdb
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\Sim2_Task015.dll
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\refint\Sim2_Task015.dll
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\Sim2_Task015.pdb
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\Sim2_Task015.genruntimeconfig.cache
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task015\obj\Debug\net7.0\ref\Sim2_Task015.dll
