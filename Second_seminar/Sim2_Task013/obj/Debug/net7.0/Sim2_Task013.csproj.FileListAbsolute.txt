@@ -1,0 +1,15 @@
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\bin\Debug\net7.0\Sim2_Task013.exe
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\bin\Debug\net7.0\Sim2_Task013.deps.json
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\bin\Debug\net7.0\Sim2_Task013.runtimeconfig.json
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\bin\Debug\net7.0\Sim2_Task013.dll
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\bin\Debug\net7.0\Sim2_Task013.pdb
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\Sim2_Task013.csproj.AssemblyReference.cache
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\Sim2_Task013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\Sim2_Task013.AssemblyInfoInputs.cache
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\Sim2_Task013.AssemblyInfo.cs
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\Sim2_Task013.csproj.CoreCompileInputs.cache
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\Sim2_Task013.dll
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\refint\Sim2_Task013.dll
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\Sim2_Task013.pdb
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\Sim2_Task013.genruntimeconfig.cache
+C:\Users\Watslaw\Documents\SIM C#\Second_seminar\Sim2_Task013\obj\Debug\net7.0\ref\Sim2_Task013.dll
