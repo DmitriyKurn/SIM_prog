@@ -1,0 +1,15 @@
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\Third_seminar.csproj.AssemblyReference.cache
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\Third_seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\Third_seminar.AssemblyInfoInputs.cache
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\Third_seminar.AssemblyInfo.cs
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\Third_seminar.csproj.CoreCompileInputs.cache
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\bin\Debug\net7.0\Third_seminar.exe
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\bin\Debug\net7.0\Third_seminar.deps.json
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\bin\Debug\net7.0\Third_seminar.runtimeconfig.json
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\bin\Debug\net7.0\Third_seminar.dll
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\bin\Debug\net7.0\Third_seminar.pdb
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\Third_seminar.dll
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\refint\Third_seminar.dll
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\Third_seminar.pdb
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\Third_seminar.genruntimeconfig.cache
+C:\Users\Watslaw\Documents\SIM C#\Third_seminar\obj\Debug\net7.0\ref\Third_seminar.dll
